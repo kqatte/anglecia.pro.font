@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Anglecia Pro Display';
+  src: url(../fonts/AngleciaProDisplay-Regular.woff) format(woff),
+    url(../fonts/AngleciaProDisplay-Regular.woff2) format(woff2);
+}

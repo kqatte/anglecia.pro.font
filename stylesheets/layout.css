@@ -1,0 +1,391 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Anglecia Pro Display';
+  background-color: #ffe5f6;
+  width: 1440px;
+}
+.section-1 {
+  width: 1368px;
+  height: 691px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -50px;
+}
+
+.img1 {
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 87px;
+}
+.img2 {
+  position: absolute;
+  margin-left: 1025px;
+  margin-top: 87px;
+}
+.section-1 h1 {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 250px;
+  margin-left: 450px;
+  position: absolute;
+}
+.section-1 p {
+  font-size: 30px;
+  margin-top: 550px;
+  margin-left: 620px;
+  text-align: center;
+  position: absolute;
+}
+.section-2 {
+  width: 1440px;
+  height: 770px;
+  display: flex;
+  margin-top: 130px;
+}
+
+.little-header1 {
+  font-size: 65px;
+  margin-top: 60px;
+  margin-left: 538px;
+  position: absolute;
+}
+.scr2p1 {
+  position: absolute;
+  font-size: 45px;
+  margin-left: 165px;
+  margin-top: 210px;
+}
+.scr2p2 {
+  position: absolute;
+  font-size: 30px;
+  margin-left: 165px;
+  margin-top: 265px;
+}
+.scr2p3 {
+  position: absolute;
+  font-size: 45px;
+  margin-left: 165px;
+  margin-top: 390px;
+}
+.scr2p4 {
+  position: absolute;
+  font-size: 30px;
+  margin-left: 165px;
+  margin-top: 445px;
+}
+
+.scr2p5 {
+  position: absolute;
+  font-size: 45px;
+  margin-left: 165px;
+  margin-top: 570px;
+}
+.scr2p6 {
+  position: absolute;
+  font-size: 30px;
+  margin-left: 165px;
+  margin-top: 625px;
+}
+
+.scr2img1 {
+  position: absolute;
+  margin-left: 550px;
+  margin-top: 260px;
+}
+.scr2img2 {
+  position: absolute;
+  margin-left: 840px;
+  margin-top: 260px;
+}
+
+.scr2img3 {
+  position: absolute;
+  margin-left: 1120px;
+  margin-top: 260px;
+}
+.scr2p7 {
+  position: absolute;
+  font-size: 30px;
+  margin-left: 565px;
+  margin-top: 530px;
+  text-align: center;
+}
+
+.scr2p8 {
+  position: absolute;
+  font-size: 30px;
+  margin-left: 840px;
+  margin-top: 530px;
+  text-align: center;
+}
+.scr2p9 {
+  position: absolute;
+  font-size: 30px;
+  margin-left: 1100px;
+  margin-top: 530px;
+  text-align: center;
+}
+
+.section-3 {
+  height: 860px;
+}
+.scr3img1 {
+  position: absolute;
+  margin-top: 150px;
+  display: flex;
+}
+.scr3p1 {
+  position: absolute;
+  font-size: 25px;
+  margin-top: 635px;
+  margin-left: 193px;
+}
+.scr3p2 {
+  position: absolute;
+  font-size: 25px;
+  margin-top: 350px;
+  margin-left: 710px;
+}
+.scr3p3 {
+  position: absolute;
+  font-size: 25px;
+  margin-top: 128px;
+  margin-left: 865px;
+}
+.scr3p4 {
+  position: absolute;
+  font-size: 25px;
+  margin-top: 635px;
+  margin-left: 842px;
+}
+.scr3p5 {
+  position: absolute;
+  font-size: 25px;
+  margin-top: 128px;
+  margin-left: 1350px;
+}
+.section-4 {
+  height: 860px;
+}
+.little-header2 {
+  position: absolute;
+  font-size: 65px;
+  margin-top: 60px;
+  margin-left: 607px;
+}
+.scr4img1 {
+  position: absolute;
+  margin-left: 110px;
+  margin-top: 130px;
+}
+.section-5 {
+  height: 860px;
+}
+.scr5img1 {
+  position: absolute;
+  margin-left: 175px;
+  margin-top: 100px;
+}
+.scr5p1 {
+  font-size: 35px;
+  position: absolute;
+  margin-left: 605px;
+  margin-top: 185px;
+  text-align: center;
+}
+.scr5p2 {
+  position: absolute;
+  margin-left: 270px;
+  font-size: 30px;
+  margin-top: 160px;
+}
+.scr5p3 {
+  position: absolute;
+  margin-left: 1000px;
+  font-size: 30px;
+  margin-top: 160px;
+}
+.scr5p4 {
+  position: absolute;
+  margin-left: 220px;
+  font-size: 18px;
+  margin-top: 241px;
+}
+.scr5p5 {
+  position: absolute;
+  margin-left: 942px;
+  font-size: 18px;
+  margin-top: 242px;
+}
+.scr5p6 {
+  position: absolute;
+  margin-left: 181px;
+  font-size: 15px;
+  margin-top: 372px;
+}
+.scr5p7 {
+  position: absolute;
+  margin-left: 915px;
+  font-size: 15px;
+  margin-top: 372px;
+}
+.section-6 {
+  height: 860px;
+}
+.little-header3 {
+  position: absolute;
+  font-size: 65px;
+  margin-top: 130px;
+  margin-left: 480px;
+}
+
+.scr6img1 {
+  position: absolute;
+  margin-left: 80px;
+  margin-top: 170px;
+}
+.scr6img2 {
+  position: absolute;
+  margin-left: 560px;
+  margin-top: 320px;
+}
+.scr6img3 {
+  position: absolute;
+  margin-left: 940px;
+  margin-top: 170px;
+}
+.scr6p1 {
+  position: absolute;
+  font-size: 35px;
+  color: white;
+  margin-left: 170px;
+  margin-top: 360px;
+}
+.scr6p2 {
+  position: absolute;
+  font-size: 25px;
+  color: white;
+  margin-left: 93px;
+  margin-top: 400px;
+}
+.scr6p3 {
+  position: absolute;
+  font-size: 35px;
+  color: white;
+  margin-left: 170px;
+  margin-top: 460px;
+}
+.scr6p4 {
+  position: absolute;
+  font-size: 25px;
+  color: white;
+  margin-left: 97px;
+  margin-top: 500px;
+}
+.scr6p5 {
+  position: absolute;
+  font-size: 35px;
+  color: white;
+  margin-left: 170px;
+  margin-top: 560px;
+}
+.scr6p6 {
+  position: absolute;
+  font-size: 25px;
+  color: white;
+  margin-left: 97px;
+  margin-top: 605px;
+}
+.scr6p7 {
+  position: absolute;
+  font-size: 35px;
+  color: white;
+  margin-left: 170px;
+  margin-top: 660px;
+}
+.scr6p8 {
+  position: absolute;
+  font-size: 25px;
+  color: white;
+  margin-left: 100px;
+  margin-top: 700px;
+}
+.scr6p9 {
+  position: absolute;
+  font-size: 35px;
+  color: white;
+  margin-left: 1060px;
+  margin-top: 420px;
+}
+.scr6p10 {
+  position: absolute;
+  font-size: 25px;
+  color: white;
+  margin-left: 1025px;
+  margin-top: 460px;
+}
+.scr6p11 {
+  position: absolute;
+  font-size: 35px;
+  color: white;
+  margin-left: 1020px;
+  margin-top: 520px;
+}
+.scr6p12 {
+  position: absolute;
+  font-size: 25px;
+  color: white;
+  margin-left: 985px;
+  margin-top: 560px;
+}
+.scr6p13 {
+  position: absolute;
+  font-size: 35px;
+  color: white;
+  margin-left: 1030px;
+  margin-top: 620px;
+}
+.scr6p14 {
+  position: absolute;
+  font-size: 25px;
+  color: white;
+  margin-left: 1015px;
+  margin-top: 665px;
+}
+.section-7 {
+  height: 1000px;
+}
+.scr7img1 {
+  position: absolute;
+  margin-left: 140px;
+}
+.section-8 {
+  height: 310px;
+  background-color: #f3b9d5;
+}
+.logo {
+  position: absolute;
+  margin-left: 28px;
+  margin-top: 70px;
+}
+.scr8p1 {
+  position: absolute;
+  margin-left: 1035px;
+  margin-top: 95px;
+  font-size: 36px;
+}
+.scr8p2 {
+  position: absolute;
+  margin-left: 975px;
+  margin-top: 155px;
+  font-size: 36px;
+}
+
+.scr8p3 {
+  position: absolute;
+  margin-left: 1325px;
+  margin-top: 215px;
+  font-size: 36px;
+}
