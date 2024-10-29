@@ -24,6 +24,11 @@ body {
   margin-left: 1025px;
   margin-top: 87px;
 }
+.img3 {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 408px;
+}
 .section-1 h1 {
   font-size: 100px;
   text-align: center;
